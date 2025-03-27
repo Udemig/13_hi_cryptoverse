@@ -12,3 +12,4 @@ GIF Entegrasyonu: Projeye görsel bir dinamizm katmak için GIF dosyası dahil e
 
 # Ekran Görüntüsü
 ![crptoverse](https://github.com/user-attachments/assets/14fb03dc-9d89-49f8-837c-0df3b27bc53f)
+# deneme
